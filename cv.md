@@ -21,7 +21,7 @@ I keep up with the news from the world of web.
 
 `jQuery`,`Git`, `Node.js`, `JavaScript`, `HTML5`, `CSS3`
 
-## Incomplete higher education
+## Complete higher education
 
 St. Petersburg State Polytechnic University Bachelor + Master Degree — 2013 - 2019
 
